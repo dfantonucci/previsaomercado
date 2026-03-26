@@ -1,0 +1,69 @@
+{"timestamp":"00:00:01.962","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:05.321","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:07.894","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4571542 bytes)"}
+{"timestamp":"00:00:08.101","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4571543 bytes)"}
+{"timestamp":"00:00:08.397","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4571543 bytes)"}
+{"timestamp":"00:00:11.951","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" Error: Failed to set Next.js data cache for https://api.elections.kalshi.com/trade-api/v2/series?limit=1500, items over 2MB can not be cached (14476368 bytes)"}
+{"timestamp":"00:00:13.304","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" Error: Failed to set Next.js data cache for https://api.elections.kalshi.com/trade-api/v2/series?limit=1500, items over 2MB can not be cached (14476368 bytes)"}
+{"timestamp":"00:00:14.331","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" Error: Failed to set Next.js data cache for https://api.elections.kalshi.com/trade-api/v2/series?limit=1500, items over 2MB can not be cached (14476368 bytes)"}
+{"timestamp":"00:00:23.249","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:23.258","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:00:23.258","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:00:23.258","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://127.0.0.1:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://127.0.0.1:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774492194515} /_vercel/insights/view"}
+{"timestamp":"00:00:25.591","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:26.060","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:00:26.060","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:00:26.060","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774492197480} /_vercel/insights/view"}
+{"timestamp":"00:00:26.094","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:27.529","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:00:27.529","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:00:27.529","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://127.0.0.1:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://127.0.0.1:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774492198403} /_vercel/insights/view"}
+{"timestamp":"00:00:28.471","source":"Server","level":"LOG","message":"○ Compiling /api/newsletter ..."}
+{"timestamp":"00:00:29.448","source":"Server","level":"LOG","message":"[NEWSLETTER API] received: \"daniel@daniels.com.br\""}
+{"timestamp":"00:00:29.452","source":"Server","level":"LOG","message":"[LEAD] Received: \"daniel@daniels.com.br\""}
+{"timestamp":"00:00:29.453","source":"Server","level":"LOG","message":"[LEAD] Normalized: \"daniel@daniels.com.br\""}
+{"timestamp":"00:00:29.458","source":"Server","level":"LOG","message":"[LEAD] Inserting into Supabase: \"daniel@daniels.com.br\""}
+{"timestamp":"00:00:32.770","source":"Server","level":"LOG","message":"[LEAD] Successfully saved: \"daniel@daniels.com.br\""}
+{"timestamp":"00:00:32.771","source":"Server","level":"LOG","message":"[NEWSLETTER API] processed: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:03.760","source":"Server","level":"LOG","message":"[NEWSLETTER API] received: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:03.761","source":"Server","level":"LOG","message":"[LEAD] Received: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:03.761","source":"Server","level":"LOG","message":"[LEAD] Normalized: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:03.762","source":"Server","level":"LOG","message":"[LEAD] Inserting into Supabase: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:04.159","source":"Server","level":"LOG","message":"[LEAD] Successfully saved: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:04.160","source":"Server","level":"LOG","message":"[NEWSLETTER API] processed: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.357","source":"Server","level":"LOG","message":"[NEWSLETTER API] received: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.358","source":"Server","level":"LOG","message":"[LEAD] Received: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.358","source":"Server","level":"LOG","message":"[LEAD] Normalized: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.358","source":"Server","level":"LOG","message":"[LEAD] Inserting into Supabase: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.364","source":"Browser","level":"LOG","message":"[NEWSLETTER] client submit: dfantonucci@gmail.com"}
+{"timestamp":"00:01:18.364","source":"Browser","level":"LOG","message":"[NEWSLETTER] calling API: http://127.0.0.1:3000/api/newsletter"}
+{"timestamp":"00:01:18.564","source":"Server","level":"WARN","message":"[LEAD] Duplicate email: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.565","source":"Server","level":"LOG","message":"[NEWSLETTER API] processed: \"dfantonucci@gmail.com\""}
+{"timestamp":"00:01:18.582","source":"Browser","level":"LOG","message":"[NEWSLETTER] API result: {\"ok\":true}"}
+{"timestamp":"00:01:32.882","source":"Server","level":"LOG","message":"[NEWSLETTER API] received: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:32.882","source":"Server","level":"LOG","message":"[LEAD] Received: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:32.882","source":"Server","level":"LOG","message":"[LEAD] Normalized: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:32.883","source":"Server","level":"LOG","message":"[LEAD] Inserting into Supabase: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:32.887","source":"Browser","level":"LOG","message":"[NEWSLETTER] client submit: daniel@daniels.com.br"}
+{"timestamp":"00:01:32.887","source":"Browser","level":"LOG","message":"[NEWSLETTER] calling API: http://127.0.0.1:3000/api/newsletter"}
+{"timestamp":"00:01:32.990","source":"Server","level":"LOG","message":"[LEAD] Successfully saved: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:32.990","source":"Server","level":"LOG","message":"[NEWSLETTER API] processed: \"daniel@daniels.com.br\""}
+{"timestamp":"00:01:33.019","source":"Browser","level":"LOG","message":"[NEWSLETTER] API result: {\"ok\":true}"}
+{"timestamp":"00:15:02.387","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4574143 bytes)"}
+{"timestamp":"00:15:02.576","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4574143 bytes)"}
+{"timestamp":"00:15:02.910","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false\" Error: Failed to set Next.js data cache for https://gamma-api.polymarket.com/markets?closed=false&active=true&limit=500&order=volume24hr&ascending=false, items over 2MB can not be cached (4574142 bytes)"}
+{"timestamp":"00:24:07.809","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" TypeError: terminated"}
+{"timestamp":"00:24:09.110","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" TypeError: terminated"}
+{"timestamp":"00:24:11.917","source":"Server","level":"WARN","message":"Failed to set fetch cache \"https://api.elections.kalshi.com/trade-api/v2/series?limit=1500\" TypeError: terminated"}
+{"timestamp":"00:24:24.928","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:24:25.289","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:24:25.298","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:24:25.298","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:24:25.298","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://127.0.0.1:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://127.0.0.1:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774493636838} /_vercel/insights/view"}
+{"timestamp":"00:24:26.624","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:24:26.624","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:24:26.624","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://localhost:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774493636992} /_vercel/insights/view"}
+{"timestamp":"00:24:26.662","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:24:27.273","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit"}
+{"timestamp":"00:24:27.274","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {\"path\":\"/\",\"route\":\"/\"}"}
+{"timestamp":"00:24:27.274","source":"Browser","level":"LOG","message":"%c[Vercel Web Analytics]%c [view] http://127.0.0.1:3000/ color: rgb(120, 120, 120) color: inherit {\"dp\":\"/\",\"o\":\"http://127.0.0.1:3000/\",\"sdkn\":\"@vercel/analytics/next\",\"sdkv\":\"1.6.1\",\"sv\":\"0.1.3\",\"ts\":1774493638245} /_vercel/insights/view"}
