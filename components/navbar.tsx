@@ -16,7 +16,7 @@ export function Navbar() {
             <TrendingUp className="h-4 w-4 text-primary-foreground" />
           </div>
           <span className="text-lg font-semibold tracking-tight text-foreground">
-            Previsão Mercado
+            Previsão de Mercado
           </span>
         </Link>
 

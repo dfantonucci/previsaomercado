@@ -12,7 +12,7 @@ export function Footer() {
                 <TrendingUp className="h-4 w-4 text-primary-foreground" />
               </div>
               <span className="text-lg font-semibold tracking-tight text-foreground">
-                Previsão Mercado
+                Previsão de Mercado
               </span>
             </Link>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted-foreground">
@@ -114,7 +114,7 @@ export function Footer() {
 
         <div className="mt-12 border-t border-border pt-8">
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Previsão Mercado. Todos os direitos
+            © {new Date().getFullYear()} Previsão de Mercado. Todos os direitos
             reservados.
           </p>
           <p className="mt-2 text-center text-xs text-muted-foreground">

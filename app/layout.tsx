@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Previsão Mercado | Previsões Globais em Tempo Real',
+  title: 'Previsão de Mercado | Previsões Globais em Tempo Real',
   description: 'Acompanhe as principais previsões globais de mercados como Polymarket e Kalshi. Geopolítica, eleições, cripto e tecnologia.',
   generator: 'v0.app',
   icons: {
