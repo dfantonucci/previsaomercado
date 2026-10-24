@@ -104,7 +104,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/Daniel/DFAS-Produtos/previsaomercado",
+    "outputFileTracingRoot": "/vercel/share/v0-project",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -166,7 +166,7 @@ self.__SERVER_FILES_MANIFEST={
       "proxyPrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 3,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -304,11 +304,11 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "/Users/Daniel/DFAS-Produtos/previsaomercado"
+      "root": "/vercel/share/v0-project"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Users/Daniel/DFAS-Produtos/previsaomercado",
+  "appDir": "/vercel/share/v0-project",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
