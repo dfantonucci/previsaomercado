@@ -46,6 +46,12 @@
       "regex": "^/api/newsletter(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/api/newsletter(?:/)?$"
+    },
+    {
+      "page": "/mcp",
+      "regex": "^/mcp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/mcp(?:/)?$"
     }
   ],
   "dataRoutes": [],
